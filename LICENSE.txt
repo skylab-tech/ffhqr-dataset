@@ -1,0 +1,19 @@
+Flickr-Faces-HQ-Retouching (FFHQR) is a high-quality image dataset of
+retouched human faces. The dataset is released as part of the following paper:
+
+    AutoRetouch: Automatic Professional Face Retouching
+    Alireza Shafaei (skylabtech.ai), James J. Little (UBC), Mark Schmidt (UBC)
+    https://github.com/skylab-tech/ffhqr-dataset
+
+FFHQR is derived from FFHQ and follows the same license. For the license of 
+the original images please see the official FFHQ Github page at
+
+https://github.com/NVlabs/ffhq-dataset
+
+The retouching portion is made available under Creative Commons BY-NC-SA 4.0
+license by Skylab Technologies Incorporated (skylabtech.ai). You can use, redistribute,
+and adapt it for non-commercial purposes, as long as you (a) give appropriate credit 
+by citing our paper, (b) indicate any changes that you've made, and (c) distribute 
+any derivative works under the same license.
+
+    https://creativecommons.org/licenses/by-nc-sa/4.0/
