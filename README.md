@@ -63,7 +63,7 @@ To use FFHQR, you first need to [download the original 1024x1024 FFHQ images](ht
 | &boxur;&nbsp; [thumbnails128x128]() | GB | 70,000 | PNG (zipped) | Thumbnails at 128&times;128
 
 - Data Split (by folders):
-  - Train: `00000` - `55000`
+  - Train: `00000` to `55000`
   - Validation: `56000` to `62000`
   - Test: `63000` to `69000`
 
