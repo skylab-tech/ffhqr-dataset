@@ -17,7 +17,9 @@ Flickr-Faces-HQ-Retouching (FFHQR) is a high-quality image dataset of retouched 
 > **AutoRetouch: Automatic Professional Face Retouching**<br>
 > Alireza Shafaei ([skylabtech](https://www.skylabtech.ai)), James J. Little (UBC), Mark Schmidt (UBC)<br>
 > Winter Conference on Applications of Computer Vision (WACV), 2021<br>
-> [See the Paper](https://openaccess.thecvf.com/content/WACV2021/html/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.html)
+> • [WACV 21 Page](https://openaccess.thecvf.com/content/WACV2021/html/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.html)
+> • [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf)
+> • [Supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Shafaei_AutoRetouch_Automatic_Professional_WACV_2021_supplemental.pdf) •
 
 The [original FFHQ dataset](https://github.com/NVlabs/ffhq-dataset) consists of 70,000 1 MP face-aligned images that are collected from Flickr. We professionally retouched FFHQ to create FFHQR. FFHQR is the first large-scale publicly available retouching dataset. We chose FFHQ as the basis of our new dataset because of the variety of ages, ethnicity, lighting conditions, and the large number of images that could benefit from face retouching.
 
@@ -48,7 +50,7 @@ To use FFHQR, you first need to [download the original 1024x1024 FFHQ images](ht
 
 **The download links will be added soon.**
 
-| Path | Size | Files | Format | Description
+| Path | Size | Files | Format | Description |
 | :--- | :--: | ----: | :----: | :----------
 | ffhqr-dataset |  |  | |
 | &boxvr;&nbsp; [images1024x1024 - part 1]() |  GB | 10,000 | PNG (zipped) | 00000-09000
@@ -60,10 +62,15 @@ To use FFHQR, you first need to [download the original 1024x1024 FFHQ images](ht
 | &boxvr;&nbsp; [images1024x1024 - part 7]() |  GB | 10,000 | PNG (zipped) | 60000-69000
 | &boxur;&nbsp; [thumbnails128x128]() | GB | 70,000 | PNG (zipped) | Thumbnails at 128&times;128
 
+- Data Split (by folders):
+  - Train: `00000` - `55000`
+  - Validation: `56000` to `62000`
+  - Test: `63000` to `69000`
+
 ## Acknowledgements
 
 We would like to thank the [PhotoRetouchOnline.com](http://PhotoRetouchOnline.com) team and the [Artona Group Inc.](https://www.artona.com/) staff for their valuable feedback and support. We thank Tero Karras (NVIDIA), Samuli Laine (NVIDIA), Timo Aila (NVIDIA) for the original FFHQ dataset.
 
 ## Privacy
 
-If you wish to remove a photo that you own from FFHQ and FFHQR, please follow the [FFHQ instructions](https://github.com/NVlabs/ffhq-dataset#privacy) and make sure to include `alireza@skylabtech.ai` in the correspondences.
+If you wish to remove a photo that you own from FFHQ and FFHQR, please follow the [FFHQ instructions](https://github.com/NVlabs/ffhq-dataset#privacy). After your image is successfully deleted from FFHQ, please contact `alireza@skylabtech.ai` to remove the corresponding image from FFHQR.
