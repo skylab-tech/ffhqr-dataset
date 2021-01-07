@@ -15,7 +15,7 @@
 Flickr-Faces-HQ-Retouching (FFHQR) is a high-quality image dataset of retouched human faces. The dataset is released as part of the following paper:
 
 > **AutoRetouch: Automatic Professional Face Retouching**<br>
-> Alireza Shafaei ([skylabtech](https://www.skylabtech.ai)), James J. Little (UBC), Mark Schmidt (UBC)<br>
+> Alireza Shafaei ([skylabtech](https://research.skylabtech.ai)), James J. Little (UBC), Mark Schmidt (UBC)<br>
 > Winter Conference on Applications of Computer Vision (WACV), 2021<br>
 > • [WACV 21 Page](https://openaccess.thecvf.com/content/WACV2021/html/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.html)
 > • [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf)
