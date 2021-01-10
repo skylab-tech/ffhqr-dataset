@@ -1,3 +1,5 @@
+[![Skylab Research](skylab-research.png)](https://research.skylabtech.ai/)
+
 # Flickr-Faces-HQ-Retouching (FFHQR) Dataset
 
 ![License CC](https://img.shields.io/badge/license-CC-green.svg?style=plastic)
@@ -48,18 +50,18 @@ The retouching dataset is made available under [Creative Commons BY-NC-SA 4.0](h
 
 To use FFHQR, you first need to [download the original 1024x1024 FFHQ images](https://github.com/NVlabs/ffhq-dataset).
 
-**The download links will be added soon.**
+The retouched images (`FFHQR`) can be downloaded below.
 
 | Path | Size | Files | Format | Description |
 | :--- | :--: | ----: | :----: | :----------
 | ffhqr-dataset |  |  | |
-| &boxvr;&nbsp; [images1024x1024 - part 1]() |  GB | 10,000 | PNG (zipped) | 00000-09000
-| &boxvr;&nbsp; [images1024x1024 - part 2]() |  GB | 10,000 | PNG (zipped) | 10000-19000
-| &boxvr;&nbsp; [images1024x1024 - part 3]() |  GB | 10,000 | PNG (zipped) | 20000-29000
-| &boxvr;&nbsp; [images1024x1024 - part 4]() |  GB | 10,000 | PNG (zipped) | 30000-39000
-| &boxvr;&nbsp; [images1024x1024 - part 5]() |  GB | 10,000 | PNG (zipped) | 40000-49000
-| &boxvr;&nbsp; [images1024x1024 - part 6]() |  GB | 10,000 | PNG (zipped) | 50000-59000
-| &boxvr;&nbsp; [images1024x1024 - part 7]() |  GB | 10,000 | PNG (zipped) | 60000-69000
+| &boxvr;&nbsp; [images1024x1024 - part 1](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part1.tar) | 13 GB | 10,000 | PNG (tar package) | 00000-09000
+| &boxvr;&nbsp; [images1024x1024 - part 2](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part2.tar) | 13 GB | 10,000 | PNG (tar package) | 10000-19000
+| &boxvr;&nbsp; [images1024x1024 - part 3](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part3.tar) | 13 GB | 10,000 | PNG (tar package) | 20000-29000
+| &boxvr;&nbsp; [images1024x1024 - part 4](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part4.tar) | 13 GB | 10,000 | PNG (tar package) | 30000-39000
+| &boxvr;&nbsp; [images1024x1024 - part 5](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part5.tar) | 13 GB | 10,000 | PNG (tar package) | 40000-49000
+| &boxvr;&nbsp; [images1024x1024 - part 6](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part6.tar) | 13 GB | 10,000 | PNG (tar package) | 50000-59000
+| &boxvr;&nbsp; [images1024x1024 - part 7](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part7.tar) | 13 GB | 10,000 | PNG (tar package) | 60000-69000
 | &boxur;&nbsp; [thumbnails128x128]() | GB | 70,000 | PNG (zipped) | Thumbnails at 128&times;128
 
 - Data Split (by folders):
