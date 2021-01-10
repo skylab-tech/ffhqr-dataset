@@ -21,7 +21,8 @@ Flickr-Faces-HQ-Retouching (FFHQR) is a high-quality image dataset of retouched 
 > Winter Conference on Applications of Computer Vision (WACV), 2021<br>
 > • [WACV 21 Page](https://openaccess.thecvf.com/content/WACV2021/html/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.html)
 > • [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf)
-> • [Supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Shafaei_AutoRetouch_Automatic_Professional_WACV_2021_supplemental.pdf) •
+> • [Supp](https://openaccess.thecvf.com/content/WACV2021/supplemental/Shafaei_AutoRetouch_Automatic_Professional_WACV_2021_supplemental.pdf)
+> • [Video](https://youtu.be/NBFkSL5XhHA) •
 
 The [original FFHQ dataset](https://github.com/NVlabs/ffhq-dataset) consists of 70,000 1 MP face-aligned images that are collected from Flickr. We professionally retouched FFHQ to create FFHQR. FFHQR is the first large-scale publicly available retouching dataset. We chose FFHQ as the basis of our new dataset because of the variety of ages, ethnicity, lighting conditions, and the large number of images that could benefit from face retouching.
 
