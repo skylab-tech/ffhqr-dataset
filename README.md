@@ -63,7 +63,7 @@ The retouched images (`FFHQR`) can be downloaded below.
 | &boxvr;&nbsp; [images1024x1024 - part 5](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part5.tar) | 13 GB | 10,000 | PNG (tar package) | 40000-49000
 | &boxvr;&nbsp; [images1024x1024 - part 6](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part6.tar) | 13 GB | 10,000 | PNG (tar package) | 50000-59000
 | &boxvr;&nbsp; [images1024x1024 - part 7](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part7.tar) | 13 GB | 10,000 | PNG (tar package) | 60000-69000
-| &boxur;&nbsp; [thumbnails128x128](cs.ubc.ca/~shafaei/dataset/thumbs.tar) | 2.3 GB | 70,000 | PNG (tar package) | Thumbnails at 128&times;128
+| &boxur;&nbsp; [thumbnails128x128](https://www.cs.ubc.ca/~shafaei/dataset/thumbs.tar) | 2.3 GB | 70,000 | PNG (tar package) | Thumbnails at 128&times;128
 
 - Data Split (by folders):
   - Train: `00000` to `55000`
