@@ -53,17 +53,17 @@ To use FFHQR, you first need to [download the original 1024x1024 FFHQ images](ht
 
 The retouched images (`FFHQR`) can be downloaded below.
 
-| Path | Size | Files | Format | Description |
-| :--- | :--: | ----: | :----: | :----------
-| ffhqr-dataset |  |  | |
-| &boxvr;&nbsp; [images1024x1024 - part 1](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part1.tar) | 13 GB | 10,000 | PNG (tar package) | 00000-09000
-| &boxvr;&nbsp; [images1024x1024 - part 2](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part2.tar) | 13 GB | 10,000 | PNG (tar package) | 10000-19000
-| &boxvr;&nbsp; [images1024x1024 - part 3](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part3.tar) | 13 GB | 10,000 | PNG (tar package) | 20000-29000
-| &boxvr;&nbsp; [images1024x1024 - part 4](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part4.tar) | 13 GB | 10,000 | PNG (tar package) | 30000-39000
-| &boxvr;&nbsp; [images1024x1024 - part 5](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part5.tar) | 13 GB | 10,000 | PNG (tar package) | 40000-49000
-| &boxvr;&nbsp; [images1024x1024 - part 6](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part6.tar) | 13 GB | 10,000 | PNG (tar package) | 50000-59000
-| &boxvr;&nbsp; [images1024x1024 - part 7](https://www.cs.ubc.ca/~shafaei/dataset/ffhqr.part7.tar) | 13 GB | 10,000 | PNG (tar package) | 60000-69000
-| &boxur;&nbsp; [thumbnails128x128](https://www.cs.ubc.ca/~shafaei/dataset/thumbs.tar) | 2.3 GB | 70,000 | PNG (tar package) | Thumbnails at 128&times;128
+| Path                                                                                                 |  Size  |  Files |      Format       | Description                 |
+| :--------------------------------------------------------------------------------------------------- | :----: | -----: | :---------------: | :-------------------------- |
+| ffhqr-dataset                                                                                        |        |        |                   |
+| &boxvr;&nbsp; [images1024x1024 - part 1](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part1.tar) | 13 GB  | 10,000 | PNG (tar package) | 00000-09000                 |
+| &boxvr;&nbsp; [images1024x1024 - part 2](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part2.tar) | 13 GB  | 10,000 | PNG (tar package) | 10000-19000                 |
+| &boxvr;&nbsp; [images1024x1024 - part 3](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part3.tar) | 13 GB  | 10,000 | PNG (tar package) | 20000-29000                 |
+| &boxvr;&nbsp; [images1024x1024 - part 4](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part4.tar) | 13 GB  | 10,000 | PNG (tar package) | 30000-39000                 |
+| &boxvr;&nbsp; [images1024x1024 - part 5](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part5.tar) | 13 GB  | 10,000 | PNG (tar package) | 40000-49000                 |
+| &boxvr;&nbsp; [images1024x1024 - part 6](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part6.tar) | 13 GB  | 10,000 | PNG (tar package) | 50000-59000                 |
+| &boxvr;&nbsp; [images1024x1024 - part 7](https://www.cs.ubc.ca/research/AutoRetouch/ffhqr.part7.tar) | 13 GB  | 10,000 | PNG (tar package) | 60000-69000                 |
+| &boxur;&nbsp; [thumbnails128x128](https://www.cs.ubc.ca/research/AutoRetouch/thumbs.tar)             | 2.3 GB | 70,000 | PNG (tar package) | Thumbnails at 128&times;128 |
 
 - Data Split (by folders):
   - Train: `00000` to `55000`
